@@ -8,3 +8,8 @@ Bootstrap Business website for software solutions, but could easily be changed t
 
 # use of third party replace.me 
   to replace words dynamically
+
+# Link 
+https://software-vera.netlify.app/
+
+
